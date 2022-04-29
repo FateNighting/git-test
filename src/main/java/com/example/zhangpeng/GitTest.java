@@ -13,6 +13,6 @@ public class GitTest {
         System.out.println("hell0.git3");
         System.out.println("master test");
         System.out.println("push test");
-
+        System.out.println("pull test");
     }
 }
