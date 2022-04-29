@@ -7,6 +7,8 @@ package com.example.zhangpeng;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hell0.git");
-        System.out.println("hell0.git");
+        System.out.println("hell0.git1");
+        System.out.println("hell0.git2");
+
     }
 }
